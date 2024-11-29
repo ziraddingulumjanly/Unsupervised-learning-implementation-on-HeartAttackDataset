@@ -1,0 +1,6 @@
+Python (v3.12.0)
+pandas (v2.2.1)
+scikit-learn (v1.3.2)
+matplotlib (v3.8.2)
+seaborn (v0.13.1)
+SciPy (v1.11.4) 
